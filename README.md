@@ -1,2 +1,2 @@
 # simplecounter-app
-Created with CodeSandbox
+This Repo Includes my first basic React native implementation of small project.
